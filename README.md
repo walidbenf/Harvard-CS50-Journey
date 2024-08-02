@@ -72,7 +72,7 @@ Here are some of the projects and assignments you'll find in this repository:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com].
+If you have any questions or suggestions, feel free to reach out to me at [wben-far@student.42.fr].
 
 ---
 
