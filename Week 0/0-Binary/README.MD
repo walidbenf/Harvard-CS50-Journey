@@ -11,7 +11,7 @@ When counting up to 5 by only using raised fingers, this is a form of unary (bas
 
 ### Practical Example
 
-- **Number of Raised Fingers**:
+- **Number of Raised Fingers with One Hand**:
   - 1 raised finger = 1 (in unary system)
   - 2 raised fingers = 2 (in unary system)
   - 3 raised fingers = 3 (in unary system)
